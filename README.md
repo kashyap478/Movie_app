@@ -4,11 +4,5 @@ Fullstack open source movie application made with MongoDB, Express, React & Node
 <br/>
 
   
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
-      - [API](#api)
- 
+  
 
